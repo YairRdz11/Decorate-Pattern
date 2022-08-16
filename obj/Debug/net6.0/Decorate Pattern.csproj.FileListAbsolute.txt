@@ -1,0 +1,5 @@
+C:\Users\Yair\Documents\Design Pattern\Decorate Pattern\obj\Debug\net6.0\Decorate Pattern.csproj.AssemblyReference.cache
+C:\Users\Yair\Documents\Design Pattern\Decorate Pattern\obj\Debug\net6.0\Decorate Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yair\Documents\Design Pattern\Decorate Pattern\obj\Debug\net6.0\Decorate Pattern.AssemblyInfoInputs.cache
+C:\Users\Yair\Documents\Design Pattern\Decorate Pattern\obj\Debug\net6.0\Decorate Pattern.AssemblyInfo.cs
+C:\Users\Yair\Documents\Design Pattern\Decorate Pattern\obj\Debug\net6.0\Decorate Pattern.csproj.CoreCompileInputs.cache
